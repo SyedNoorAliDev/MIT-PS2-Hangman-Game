@@ -135,13 +135,3 @@ hangman(a)
 print("Secret Word: ",a)
 
 
- 
-
-
-# if guess_input.isalpha()==False and guess_input not in letter:
-#     tinylist.append(guess_input)
-
-# tinylist=[]
-# if guess_input.isalpha()==False and guess_input not in letter:
-#     tinylist.append(guess_input)
-
